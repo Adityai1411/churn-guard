@@ -1,0 +1,11 @@
+__pycache__/ 
+*.pyc 
+.venv/ 
+churn/ 
+models/*.pkl 
+data/raw/*.csv 
+data/processed/*.csv 
+results/*.csv 
+.DS_Store 
+.env 
+*.log 
