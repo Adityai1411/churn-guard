@@ -473,7 +473,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 AI/ML Engineer
 
 - GitHub: [@Adityai1411](https://github.com/Adityai1411)
-- LinkedIn: [Aditya Ingale](https://linkedin.com/in/adityaingale)
+- LinkedIn: [Aditya Ingale](https://www.linkedin.com/in/ingaleaditya1411/)
 - Portfolio: [aditya-ingale-portfolio.vercel.app](https://aditya-ingale-portfolio.vercel.app)
 
 ---
@@ -492,7 +492,7 @@ AI/ML Engineer
 
 For questions, collaborations, or feedback:
 - 📧 Email: adityaingale@example.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/adityaingale)
+- 💼 LinkedIn: [Connect with me]([https://www.linkedin.com/in/ingaleaditya1411/])
 - 🐛 Issues: [Open an issue](https://github.com/Adityai1411/churn-guard/issues)
 
 ---
