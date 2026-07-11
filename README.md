@@ -492,7 +492,7 @@ AI/ML Engineer
 
 For questions, collaborations, or feedback:
 - 📧 Email: ingaleaditya1411@gmail.com
-- 💼 LinkedIn: [Connect with me]([https://www.linkedin.com/in/ingaleaditya1411/])
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ingaleaditya1411/)
 - 🐛 Issues: [Open an issue](https://github.com/Adityai1411/churn-guard/issues)
 
 ---
